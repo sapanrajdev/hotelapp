@@ -1,0 +1,27 @@
+.result-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+
+  h2 {
+    color: #4caf50;
+  }
+
+  p {
+    margin-bottom: 20px;
+  }
+
+  h3 {
+    color: #007bff;
+    margin-top: 20px;
+  }
+
+  strong {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+}
